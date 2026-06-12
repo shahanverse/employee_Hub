@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "admin_1781297188366",
+    "username": "shahan",
+    "email": "shahan@gmail.com",
+    "password": "$2a$10$CYe4EkYBWJW.Gl1.MJV6FOAvDGCK9bNNMbVYklojLWqY/8xgurMSi",
+    "createdAt": "2026-06-12T20:46:28.366Z",
+    "updatedAt": "2026-06-12T20:46:28.366Z"
+  },
+  {
+    "_id": "admin_1781297432391",
+    "username": "John",
+    "email": "john@gmail.com",
+    "password": "$2a$10$pux5OYdLyWNtNMi75WknU.rJYTZiqmv6DxrARbMy3CKDjn9IokD/a",
+    "createdAt": "2026-06-12T20:50:32.391Z",
+    "updatedAt": "2026-06-12T20:50:32.391Z"
+  },
+  {
+    "_id": "admin_1781297627432",
+    "username": "new",
+    "email": "new@gmail.com",
+    "password": "$2a$10$3hLaXBGZVInBkQVYtLvez.go5ew0ML1oQq4Dno2.dgaBB2zdnEo/G",
+    "createdAt": "2026-06-12T20:53:47.432Z",
+    "updatedAt": "2026-06-12T20:53:47.432Z"
+  },
+  {
+    "_id": "admin_1781297682473",
+    "username": "testadmin",
+    "email": "test@test.com",
+    "password": "$2a$10$d8iHzHtw3GqxlgEDnwOUv.fEypB1rn8QTZeiFxW/PPIKIRjaL8PA2",
+    "createdAt": "2026-06-12T20:54:42.473Z",
+    "updatedAt": "2026-06-12T20:54:42.473Z"
+  },
+  {
+    "_id": "admin_1781298217878",
+    "username": "jaaa",
+    "email": "shahahn@gmail.com",
+    "password": "$2a$10$IVMDSstnkmUMPOyydZbB5.fL9bZipYh7jWk7bLnwNFNTqwE/WmMe2",
+    "createdAt": "2026-06-12T21:03:37.878Z",
+    "updatedAt": "2026-06-12T21:03:37.878Z"
+  }
+]
